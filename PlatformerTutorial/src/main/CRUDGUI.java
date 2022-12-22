@@ -91,7 +91,11 @@ public class CRUDGUI {
 				arr = dao.readData();
 				
 				ta.append("id"+"\t"+"time"+"\t"+"Ranking"+"\n");
+<<<<<<< HEAD
 				ta.append("------------------------------------------------------------\n");
+=======
+				ta.append("------------------------------------------\n");
+>>>>>>> branch 'master' of https://github.com/abaik100/java_project.git
 				
 				// 전체 출력
 				for (int i = 0; i < arr.size(); i++) {
