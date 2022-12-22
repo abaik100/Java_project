@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="PlatformerTutorial/src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-dbcp2-2.6.0-bin/commons-dbcp2-2.6.0/commons-dbcp2-2.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-pool2-2.6.2/commons-pool2-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/백승윤/ojdbc8_g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/ojdbc8_g.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
